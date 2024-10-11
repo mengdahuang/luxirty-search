@@ -4,7 +4,7 @@
       <a href="#about">关于</a>
     </div>
     <div class="logo">
-      Luxirty Search
+      ITPro Search
     </div>
     <div class="search-container">
       <div class="gcse-searchbox-only" data-resultsUrl="search"></div>
@@ -13,10 +13,7 @@
     <!-- 添加页脚 -->
     <footer>
       <p>
-        &copy; Create by <a href="https://luxirty.com/posts/luxirty-search/" target="_blank">Luxirty</a> with love |
-        <a href="https://github.com/KoriIku/luxiry-search" target="_blank">
-          GitHub
-        </a>
+        &copy; Create by <a href="https://blog.itpro.cc/" target="_blank">ITPro.cc</a> 
       </p>
     </footer>
   </div>
